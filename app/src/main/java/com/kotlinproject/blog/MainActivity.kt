@@ -40,6 +40,7 @@ class MainActivity : ComponentActivity() {
             FeedItem(
                 //feed
                 id = "1",
+                //id
                 title = "Please Start Writing Better Git Commits",
                 excerpt = "I recently read a helpful article on Hashnode by Simon Egersand titled “Write Git Commit Messages Your Colleagues Will Love...",
                 author = "New blogger",
