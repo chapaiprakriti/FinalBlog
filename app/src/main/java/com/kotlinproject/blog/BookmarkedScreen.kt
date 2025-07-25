@@ -39,6 +39,7 @@ fun BookmarkedScreen(
 
     LaunchedEffect(true) {
         viewModel.getAllBookmarks()
+        //view
     }
 
     Column(
