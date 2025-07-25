@@ -37,7 +37,9 @@ import com.kotlinproject.blog.ui.theme.BlogTheme
 //theme
 import com.kotlinproject.blog.viewmodel.MainViewModel
 import data.FirebaseInstance
+//instance
 import kotlinx.coroutines.delay
+//delay
 
 class MainActivity : ComponentActivity() {
     //class
