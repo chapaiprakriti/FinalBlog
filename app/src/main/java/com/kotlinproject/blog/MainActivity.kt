@@ -44,6 +44,7 @@ class MainActivity : ComponentActivity() {
                 title = "Please Start Writing Better Git Commits",
                 excerpt = "I recently read a helpful article on Hashnode by Simon Egersand titled “Write Git Commit Messages Your Colleagues Will Love...",
                 author = "New blogger",
+                //aut
                 date = "Jul 29, 2022",
                 //date
                 isBookmarked = true
