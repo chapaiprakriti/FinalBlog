@@ -38,6 +38,7 @@ class MainActivity : ComponentActivity() {
         //obj
         val feedItems = listOf(
             FeedItem(
+                //feed
                 id = "1",
                 title = "Please Start Writing Better Git Commits",
                 excerpt = "I recently read a helpful article on Hashnode by Simon Egersand titled “Write Git Commit Messages Your Colleagues Will Love...",
