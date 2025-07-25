@@ -5,6 +5,7 @@ import android.content.Context
 //import
 //cd
 import androidx.compose.foundation.background
+//back
 import androidx.compose.foundation.layout.Arrangement
 import androidx.compose.foundation.layout.Box
 import androidx.compose.foundation.layout.Column
