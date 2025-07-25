@@ -5,10 +5,12 @@ import FeedItem
 import HomeScreen
 //home
 import ProfileScreen
+//screen
 import android.content.Context
 import android.os.Bundle
 //bundle
 import androidx.activity.ComponentActivity
+//act
 import androidx.activity.compose.setContent
 import androidx.activity.enableEdgeToEdge
 //imp
