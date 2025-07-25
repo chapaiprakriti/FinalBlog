@@ -62,6 +62,7 @@ fun BookmarkedScreen(
             }
 
             Text(
+                //text
                 "Bookmarks",
                 fontWeight = FontWeight.Bold,
                 color = Color.Black,
