@@ -34,6 +34,7 @@ import kotlinx.coroutines.delay
 class MainActivity : ComponentActivity() {
 
     companion object {
+        //obj
         val feedItems = listOf(
             FeedItem(
                 id = "1",
