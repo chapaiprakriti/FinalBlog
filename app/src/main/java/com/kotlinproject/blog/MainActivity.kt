@@ -13,6 +13,7 @@ import androidx.activity.compose.setContent
 import androidx.activity.enableEdgeToEdge
 //imp
 import androidx.activity.viewModels
+//view
 //edge
 import androidx.compose.foundation.background
 import androidx.compose.foundation.layout.Box
