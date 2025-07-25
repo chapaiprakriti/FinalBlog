@@ -32,6 +32,7 @@ import data.FirebaseInstance
 import kotlinx.coroutines.delay
 
 class MainActivity : ComponentActivity() {
+    //class
 
     companion object {
         //obj
