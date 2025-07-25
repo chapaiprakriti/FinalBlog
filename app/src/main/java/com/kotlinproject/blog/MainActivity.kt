@@ -60,6 +60,7 @@ class MainActivity : ComponentActivity() {
                 date = "Jul 29, 2022",
                 //date
                 isBookmarked = true
+                //is
                 //true
             ),
             FeedItem(
