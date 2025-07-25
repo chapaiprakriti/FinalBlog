@@ -44,6 +44,7 @@ fun BookmarkedScreen(
     }
 
     Column(
+        //column
         modifier = Modifier
             .fillMaxSize()
             .padding(top = 32.dp, start = 16.dp, end = 16.dp, bottom = 0.dp)
