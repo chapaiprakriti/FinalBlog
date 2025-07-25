@@ -49,6 +49,7 @@ fun HomeScreen(navController: NavController, viewModel: MainViewModel) {
 
     LaunchedEffect(Unit) {
         viewModel.getUserFromId()
+        //id
     }
 
     LaunchedEffect(true) {
