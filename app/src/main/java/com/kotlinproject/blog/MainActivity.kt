@@ -45,6 +45,7 @@ class MainActivity : ComponentActivity() {
                 isBookmarked = true
             ),
             FeedItem(
+                //feed
                 id = "2",
                 title = "About criticism",
                 excerpt = "Everybody is a critic. Every developer has both been on the receiving and the giving end of criticism. It is a vital part of our job...",
