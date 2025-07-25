@@ -29,6 +29,7 @@ import com.kotlinproject.blog.viewmodel.MainViewModel
 
 
 @Composable
+//book
 fun BookmarkedScreen(
     navController: NavController,
     viewModel: MainViewModel,
