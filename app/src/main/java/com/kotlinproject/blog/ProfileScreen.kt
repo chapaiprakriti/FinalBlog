@@ -157,6 +157,7 @@ fun ProfileScreen(
                             })
                         }
                     }) {
+                        //and
                         Text("Delete", color = Color.Red)
                     }
                 },
