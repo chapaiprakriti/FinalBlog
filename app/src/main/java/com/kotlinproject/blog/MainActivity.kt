@@ -34,6 +34,7 @@ import androidx.navigation.compose.composable
 import androidx.navigation.compose.rememberNavController
 import com.google.firebase.FirebaseApp
 import com.kotlinproject.blog.ui.theme.BlogTheme
+//theme
 import com.kotlinproject.blog.viewmodel.MainViewModel
 import data.FirebaseInstance
 import kotlinx.coroutines.delay
