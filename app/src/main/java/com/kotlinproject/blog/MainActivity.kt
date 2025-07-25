@@ -49,6 +49,7 @@ class MainActivity : ComponentActivity() {
         val feedItems = listOf(
             FeedItem(
                 //feed
+                //feed
                 id = "1",
                 //id
                 title = "Please Start Writing Better Git Commits",
@@ -59,6 +60,7 @@ class MainActivity : ComponentActivity() {
                 date = "Jul 29, 2022",
                 //date
                 isBookmarked = true
+                //true
             ),
             FeedItem(
                 //item
