@@ -32,6 +32,7 @@ import com.kotlinproject.blog.viewmodel.MainViewModel
 fun BookmarkedScreen(
     navController: NavController,
     viewModel: MainViewModel,
+    //model
     context: Context
     //context
 ) {
