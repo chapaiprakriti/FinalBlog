@@ -7,10 +7,12 @@ import HomeScreen
 import ProfileScreen
 import android.content.Context
 import android.os.Bundle
+//bundle
 import androidx.activity.ComponentActivity
 import androidx.activity.compose.setContent
 import androidx.activity.enableEdgeToEdge
 import androidx.activity.viewModels
+//edge
 import androidx.compose.foundation.background
 import androidx.compose.foundation.layout.Box
 import androidx.compose.foundation.layout.fillMaxSize
