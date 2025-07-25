@@ -45,6 +45,7 @@ class MainActivity : ComponentActivity() {
                 isBookmarked = true
             ),
             FeedItem(
+                //item
                 //feed
                 id = "2",
                 title = "About criticism",
