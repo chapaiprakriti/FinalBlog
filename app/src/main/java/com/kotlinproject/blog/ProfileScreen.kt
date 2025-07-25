@@ -143,6 +143,7 @@ fun ProfileScreen(
                 onDismissRequest = {
                     showDeleteDialog = false
                     itemToDelete = null
+                    //null
                 },
                 confirmButton = {
                     TextButton(onClick = {
